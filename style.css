@@ -1,10 +1,13 @@
 body {
-    color: black;
-    background-color: mediumpurple
+    color: white;
+    background-color: black
+    font-family: Arial, Helvetica, sans-serif
 }
 
 ul {
      display: flex
-     justify-content:space-between
-     list-style-type: 
+     justify-content: space-between
+     list-style-type: none;
+     align-items: center;
+     pedding: 16px;
 }
