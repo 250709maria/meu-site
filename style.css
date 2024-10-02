@@ -1,0 +1,10 @@
+body {
+    color: black;
+    background-color: mediumpurple
+}
+
+ul {
+     display: flex
+     justify-content:space-between
+     list-style-type: 
+}
